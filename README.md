@@ -1,6 +1,11 @@
 # ideas 💡
-Do Cool Things That Matter.
+> Do cool things that matter.
+
 ## Done ✅
+
+
+
+## Work In Progress  🚧
 
 
 
