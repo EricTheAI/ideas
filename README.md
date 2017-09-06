@@ -7,6 +7,10 @@
 
 ## Work In Progress  🚧
 
+### [smart-bite](https://github.com/CrazyEric1994/smart-bite)
+
+A health & fitness app that tracks your diet and give you meal plans which best fit you.
+
 ### [Best-smiles](https://github.com/CrazyEric1994/Best-smiles)
 
 An application to generate the best photo (from given defective photos) using Machine Learning.
